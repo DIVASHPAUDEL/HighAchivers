@@ -216,7 +216,7 @@ h3{
 }
 .layer{
     background:transparent;
-    height:60%;
+    height:80%;
     width: 100%;
     position: absolute;
     top: 0;
@@ -510,3 +510,45 @@ h3{
 }
 
 */
+
+/*search bar in top*/
+/*
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 370px;
+    margin-bottom: 20px; 
+
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 41px;
+    background: transparent;
+    border:1px solid orange;
+    margin-top: 14px;
+    color: white;
+    border-right: none;
+    font-size: 15px;
+    float: left;
+    padding: 11px;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 8px;
+}
+
+.btn{
+    width: 100px;
+    height: 41px;
+    background: orange;
+    border: 2px solid orange;
+    margin-top: 14px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 6px;
+}
+*/
+
+.health-color{
+    color: orange;
+}
