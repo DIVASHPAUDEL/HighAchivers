@@ -212,11 +212,11 @@ h3{
 }
 
 .branch-col img{
-    width: 100%;
+    width:100%;
 }
 .layer{
     background:transparent;
-    height: 96%;
+    height:60%;
     width: 100%;
     position: absolute;
     top: 0;
@@ -226,6 +226,7 @@ h3{
 
 .layer:hover{
     background: rgba(226,0,0,0.7);
+
 }
 
 .layer h3{
@@ -499,3 +500,13 @@ h3{
     border: 1px solid#ccc;
     box-sizing: border-box;
 }
+
+/*options of doctor
+
+.Doctors{
+    font-size: 25px;
+    color:#3d1a1a;
+
+}
+
+*/
